@@ -45,11 +45,19 @@ namespace EmbedChatWinform
             if (txtChat.InvokeRequired)
             {
                 txtChat.Invoke((MethodInvoker)(() => txtChat.Text += "\r\n" + message));
-            }
+                txtChat.Invoke((MethodInvoker)(() => txtChat.SelectionStart = txtChat.Text.Length));
+                txtChat.Invoke((MethodInvoker)(() => txtChat.ScrollToCaret()));
+             }
             else
             {
                 txtChat.Text += "\r\n" + message;
+                txtChat.SelectionStart = txtChat.Text.Length;
+                txtChat.ScrollToCaret();
             }
+            if (txtMessage.InvokeRequired)
+                txtMessage.Invoke((MethodInvoker)(() => txtMessage.Focus()));
+            else
+                txtMessage.Focus();
         }
 
         public void SocketOpened()
@@ -93,6 +101,13 @@ namespace EmbedChatWinform
         {
             socket.Emit("chat message", username + " left the chat");
             socket.Close();
+        }
+
+        private void changeUsernameToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            string currentUsername = username;
+            username = Prompt.ShowDialog("Username", "Enter a username");
+            socket.Emit("chat message", currentUsername + " changed their name to " + username);
         }
     }
 }

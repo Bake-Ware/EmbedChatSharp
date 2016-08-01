@@ -12,3 +12,17 @@ c:\users\jamixzol\documents\visual studio 2015\Projects\EmbedChatSharp\EmbedChat
 c:\users\jamixzol\documents\visual studio 2015\Projects\EmbedChatSharp\EmbedChatWinform\bin\Debug\SocketIoClientDotNet.dll
 c:\users\jamixzol\documents\visual studio 2015\Projects\EmbedChatSharp\EmbedChatWinform\bin\Debug\WebSocket4Net.dll
 c:\users\jamixzol\documents\visual studio 2015\Projects\EmbedChatSharp\EmbedChatWinform\bin\Debug\Newtonsoft.Json.xml
+C:\Users\JamixZol\Documents\GitHub\EmbedChatSharp\EmbedChatWinform\bin\Debug\EmbedChatWinform.exe.config
+C:\Users\JamixZol\Documents\GitHub\EmbedChatSharp\EmbedChatWinform\obj\Debug\EmbedChatWinform.exe
+C:\Users\JamixZol\Documents\GitHub\EmbedChatSharp\EmbedChatWinform\obj\Debug\EmbedChatWinform.pdb
+C:\Users\JamixZol\Documents\GitHub\EmbedChatSharp\EmbedChatWinform\bin\Debug\EmbedChatWinform.exe
+C:\Users\JamixZol\Documents\GitHub\EmbedChatSharp\EmbedChatWinform\bin\Debug\EmbedChatWinform.pdb
+C:\Users\JamixZol\Documents\GitHub\EmbedChatSharp\EmbedChatWinform\bin\Debug\EngineIoClientDotNet.dll
+C:\Users\JamixZol\Documents\GitHub\EmbedChatSharp\EmbedChatWinform\bin\Debug\Newtonsoft.Json.dll
+C:\Users\JamixZol\Documents\GitHub\EmbedChatSharp\EmbedChatWinform\bin\Debug\SocketIoClientDotNet.dll
+C:\Users\JamixZol\Documents\GitHub\EmbedChatSharp\EmbedChatWinform\bin\Debug\WebSocket4Net.dll
+C:\Users\JamixZol\Documents\GitHub\EmbedChatSharp\EmbedChatWinform\bin\Debug\Newtonsoft.Json.xml
+C:\Users\JamixZol\Documents\GitHub\EmbedChatSharp\EmbedChatWinform\obj\Debug\EmbedChatWinform.csprojResolveAssemblyReference.cache
+C:\Users\JamixZol\Documents\GitHub\EmbedChatSharp\EmbedChatWinform\obj\Debug\EmbedChatWinform.Form1.resources
+C:\Users\JamixZol\Documents\GitHub\EmbedChatSharp\EmbedChatWinform\obj\Debug\EmbedChatWinform.Properties.Resources.resources
+C:\Users\JamixZol\Documents\GitHub\EmbedChatSharp\EmbedChatWinform\obj\Debug\EmbedChatWinform.csproj.GenerateResource.Cache
