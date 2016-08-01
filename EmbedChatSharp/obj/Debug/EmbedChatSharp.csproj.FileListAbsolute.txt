@@ -1,0 +1,1 @@
+c:\users\jamixzol\documents\visual studio 2015\Projects\EmbedChatSharp\EmbedChatSharp\bin\Debug\EmbedChatSharp.exe.config

@@ -1,0 +1,11 @@
+c:\users\jamixzol\documents\visual studio 2015\Projects\EmbedChatSharp\EmbedChatSharp\bin\Debug\EmbedChatSharp.exe.config
+c:\users\jamixzol\documents\visual studio 2015\Projects\EmbedChatSharp\EmbedChatSharp\bin\Debug\EmbedChatSharp.exe
+c:\users\jamixzol\documents\visual studio 2015\Projects\EmbedChatSharp\EmbedChatSharp\bin\Debug\EmbedChatSharp.pdb
+c:\users\jamixzol\documents\visual studio 2015\Projects\EmbedChatSharp\EmbedChatSharp\bin\Debug\Newtonsoft.Json.dll
+c:\users\jamixzol\documents\visual studio 2015\Projects\EmbedChatSharp\EmbedChatSharp\bin\Debug\WebSocket4Net.dll
+c:\users\jamixzol\documents\visual studio 2015\Projects\EmbedChatSharp\EmbedChatSharp\bin\Debug\Newtonsoft.Json.xml
+c:\users\jamixzol\documents\visual studio 2015\Projects\EmbedChatSharp\EmbedChatSharp\obj\Debug\EmbedChatCmd.csprojResolveAssemblyReference.cache
+c:\users\jamixzol\documents\visual studio 2015\Projects\EmbedChatSharp\EmbedChatSharp\obj\Debug\EmbedChatSharp.exe
+c:\users\jamixzol\documents\visual studio 2015\Projects\EmbedChatSharp\EmbedChatSharp\obj\Debug\EmbedChatSharp.pdb
+c:\users\jamixzol\documents\visual studio 2015\Projects\EmbedChatSharp\EmbedChatSharp\bin\Debug\EngineIoClientDotNet.dll
+c:\users\jamixzol\documents\visual studio 2015\Projects\EmbedChatSharp\EmbedChatSharp\bin\Debug\SocketIoClientDotNet.dll
